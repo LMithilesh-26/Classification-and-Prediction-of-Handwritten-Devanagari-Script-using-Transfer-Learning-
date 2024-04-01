@@ -1,1 +1,1 @@
-# Classification-and-Prediction-of-Handwritten-Devanagari-Script-using-Transfer-Learning-
+# Increasing_Donation_Transparency_in_Disaster_Relief: Blockchain_based_Solution
